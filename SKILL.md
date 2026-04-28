@@ -11,7 +11,8 @@ This skill improves academic tone, structure, clarity, logical flow, and scholar
 
 ## Available Style Profile
 
-- academic-paper-style: Academic manuscript writing rules — see `references/academic-paper-style.md`
+- academic-paper-style: General academic manuscript writing rules — see `references/academic-paper-style.md`
+- my-academic-voice: Fine-grained ML/CV paper writing style (continual learning, computer vision) — see `references/my-academic-voice.md`
 
 ## Core Principles
 
