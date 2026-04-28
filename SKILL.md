@@ -86,6 +86,7 @@ Or use the command:
 ## Safety Rules for Academic Integrity
 
 Never:
+
 - Invent references.
 - Invent author names, years, venues, or DOIs.
 - Invent experimental results.
@@ -96,6 +97,7 @@ Never:
 - Change the intended contribution of the work.
 
 When evidence is missing, use:
+
 - `[citation needed]`
 - `[specify method]`
 - `[specify dataset]`
@@ -114,3 +116,56 @@ When evidence is missing, use:
 | Interprets findings | Discussion | Analytical, cautious |
 | Notes weaknesses | Limitations | Transparent, balanced |
 | Responds to reviewers | Reviewer response | Respectful, specific, concise |
+
+## Academic Rewriting Behavior
+
+When rewriting academic text:
+
+1. Preserve the original argument.
+2. Improve sentence structure.
+3. Use formal scholarly vocabulary.
+4. Remove informal phrases.
+5. Avoid exaggerated claims.
+6. Use cautious language when evidence is limited.
+7. Maintain logical paragraph flow.
+8. Keep existing citations unchanged.
+9. Add placeholders only when important information is missing.
+10. Do not create references or evidence that the user did not provide.
+
+## Examples
+
+Input:
+
+```txt
+AI tools are becoming very popular these days, and students use them a lot for writing. But we do not really know how this affects their writing habits.
+```
+
+Output:
+
+```txt
+AI-assisted writing tools have become increasingly prevalent in educational settings. However, their effects on students' writing practices remain insufficiently understood.
+```
+
+Input:
+
+```txt
+Our method is much better than the old method and works really well on the dataset.
+```
+
+Output:
+
+```txt
+The proposed method outperforms the previous approach on the dataset, suggesting its potential effectiveness for this task.
+```
+
+Input:
+
+```txt
+This proves that AI will completely change education.
+```
+
+Output:
+
+```txt
+These findings suggest that AI may substantially influence educational practices, although further research is needed to assess the scope and durability of this effect.
+```
