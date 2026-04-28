@@ -1,5 +1,7 @@
-name academic-paper-style
-description Transform rough, AI-generated, or informal text into polished academic paper writing. Use when asked to "rewrite academically", "make this sound like a paper", "academic style", "paper writing style", "revise for journal submission", "improve manuscript language", "make this more scholarly", or any request to convert text into academic manuscript style. Works for abstracts, introductions, related work, methods, results, discussion, limitations, conclusions, and reviewer responses.
+---
+name: academic-paper-style
+description: Transform rough, AI-generated, or informal text into polished academic paper writing. Use when asked to "rewrite academically", "make this sound like a paper", "academic style", "paper writing style", "revise for journal submission", "improve manuscript language", "make this more scholarly", or any request to convert text into academic manuscript style. Works for abstracts, introductions, related work, methods, results, discussion, limitations, conclusions, and reviewer responses.
+---
 
 # Academic Paper Writing Style
 

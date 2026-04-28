@@ -31,9 +31,9 @@ cp ~/.claude/skills/academic-paper-style/command/academic-paper-style.md ~/.clau
 ### OpenCode
 
 ```bash
-mkdir -p ~/.config/opencode/skill ~/.config/opencode/command
-cp -r academic-paper-style-skill ~/.config/opencode/skill/academic-paper-style
-cp ~/.config/opencode/skill/academic-paper-style/command/academic-paper-style.md ~/.config/opencode/command/
+mkdir -p ~/.config/opencode/skills ~/.config/opencode/command
+cp -r academic-paper-style-skill ~/.config/opencode/skills/academic-paper-style
+cp ~/.config/opencode/skills/academic-paper-style/command/academic-paper-style.md ~/.config/opencode/command/
 ```
 
 ## Usage
